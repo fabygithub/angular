@@ -1,0 +1,13 @@
+es mas facil trabajar con angular
+podemos usar comandos en la consola
+
+-g significa instalar de manera global en el equipo
+
+npm install -g @angular/cli
+
+si presiono enter va dar error porque
+necesitos permisos de administrador en cmd
+
+
+
+
