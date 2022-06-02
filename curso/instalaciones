@@ -1,5 +1,38 @@
 ver la materia
 las herramientas necesarias
+
 google chrome
-visual studio code
+
+visual studio code : te puede ayudar a depurar errores
+no es un ide es un editor de codigo
+
+postman : este programa sirve para hacer pruebas
+primero hay que saber como funciona para despues
+integrarlo con angular
+
+
+mongo db nos va ayudar a gestionar base de datos
+vamos a aprender a hacer una conexion etc
+
+ahora hay que instalar git
+sirve para mantener un repositorio
+
+para revisar la instalacion
+en la terminal
+se escribe
+por ejemplo
+
+git --version
+y muestra la version instalada
+
+github
+es la cuenta que necesitas para
+manejar repositorios
+
+
+
+
+
+
+
 
