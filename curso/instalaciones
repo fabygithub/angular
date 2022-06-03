@@ -29,6 +29,69 @@ github
 es la cuenta que necesitas para
 manejar repositorios
 
+despues mas adelante hay que hacer la condiguracion
+de git
+
+el username : tu nombre
+el useremail : tu correo
+
+en el correo la recomendacion
+seria usar el mismo correo de github
+
+aca hay un tutorial extra
+https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez
+
+lo que necesitamos es esto
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+ahora hay que instalar node.js
+revisamo con node --version
+
+en visual studio inslatamos estas
+extensiones
+
+activitus bar
+
+
+instalaciones recomendadas
+
+bracket pair colorizer = necesitas configurar
+
+
+ir a esta pagina
+https://gist.github.com/Klerith/c994a32ad825d4e87b9efbfb7174bcaa
+
+"bracket-pair-colorizer-2.colors": [
+    "#fafafa",
+    "#9F51B6",
+    "#F7C244",
+    "#F07850",
+    "#9CDD29",
+    "#0098FA"
+],
+
+ir a configuracion en visual
+escribir code actions
+edit json
+
+
+
+
+
+
+monokai
+material icon
+angular snippets
+angular2-inline
+
+auto close tag
+typescript importer
+
+
+
+
+
 
 
 
