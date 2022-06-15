@@ -9,5 +9,6 @@ si presiono enter va dar error porque
 necesitos permisos de administrador en cmd
 
 ng --version
+ng version
 
 
