@@ -12,3 +12,9 @@ net::ERR_CONNECTION_REFUSED
 open terminal cmd
 
 
+cd
+space
+drag route
+
+npm start
+
