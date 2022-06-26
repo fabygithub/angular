@@ -1,36 +1,4 @@
 https://www.youtube.com/watch?v=LiOzTQAz13Q&ab_channel=freeCodeCamp.org
-10
-
-ng new ng-video-game-db --style=scss
-
-yes
-
-sucessfull initialized git
-ls
-
-
-cd ng-video-game-db
-
-ng add @angular/material
-
-y
-
-deep purple amber
-
-npm i angular-gauge
-
-ng serve
-
-http://localhost:4200/
-
-cd ng-video-game-db
-ls
-
-cd src/app
-mkdir components
-
-cd components
-ng g c search-bar
 
 
 
