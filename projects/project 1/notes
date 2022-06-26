@@ -1,4 +1,52 @@
 https://www.youtube.com/watch?v=LiOzTQAz13Q&ab_channel=freeCodeCamp.org
+3
+
+create a folder
+open folder
+terminal bash
+
+ng new ng-video-game-db --style=scss
+
+angular strict  = n
+angular app routing = y
+
+ls
+cd ng-video-game-db/
+
+ng add @angular/material
+
+select deep purple/amber
+
+angular material = y
+
+typograpy styles = y
+
+browser animations = y (include and enable animations)
+
+npm i angular-gauge
+
+
+in project:
+
+app.module.ts
+
+import { FormsModule } from '@angular/forms';
+import {HttpClientModule} from '@angular/common/http';
+import { GaugeModule } from 'angular-gauge';
+import{MatTabsModule} from '@angular/material/tabs';
+import{MatFormFieldModule} from '@angular/material/form-field';
+import{MatSelectModule} from '@angular/material/select';
+
+
+
+
+
+
+
+
+
+
+
 
 
 
