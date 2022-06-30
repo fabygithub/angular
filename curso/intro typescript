@@ -18,3 +18,9 @@ drag route
 
 npm start
 
+console.log('Hola Mundo! again');
+
+/*
+    ===== Código de TypeScript =====
+*/
+
