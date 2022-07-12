@@ -38,6 +38,19 @@ import{MatFormFieldModule} from '@angular/material/form-field';
 import{MatSelectModule} from '@angular/material/select';
 
 
+src
+app
+app.module.ts
+
+add imports
+
+style.scss
+
+terminal bash
+
+cd ng-video-game-db/
+
+ng serve
 
 
 
