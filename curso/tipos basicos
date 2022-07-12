@@ -1,0 +1,8 @@
+string
+number
+boolean
+
+| = significa que puede ser por ejemplo number | string
+
+console.log(nombre,hp)
+
