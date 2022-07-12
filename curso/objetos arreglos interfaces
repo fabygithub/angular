@@ -1,0 +1,9 @@
+let sirve para crear variables tambien
+en typescript hay que colocar el tipo de arreglo por ejemplo string
+la interfaz es parecida a una clase 
+?: significa que la variable es opcional
+
+const personasje : Personaje
+es un objeto de la interfaz
+
+console.table imprime la tabla
