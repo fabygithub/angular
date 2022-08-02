@@ -1,0 +1,3 @@
+mostrarHp: ()=> void;
+no retorna nada
+
