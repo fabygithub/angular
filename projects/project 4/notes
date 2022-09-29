@@ -1,3 +1,40 @@
 how to upload a angular site
 https://www.youtube.com/watch?v=42uxw1Hjo2s&ab_channel=PragmaticReviews
 
+create a new repository
+public 
+create repository
+
+git clone https://github.com/fabygithub/angular.git
+
+npm i -g @angular/cli
+
+clear
+
+ng new website --directory ./
+yes
+css
+code .
+
+angular.json = ouputpath = "docs"
+
+terminal npm = npm run build
+
+git add .
+
+git commit -m "Initial commit"
+
+git push
+
+
+
+
+
+
+
+
+
+
+
+
+
