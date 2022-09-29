@@ -31,15 +31,12 @@ No configured push destination.
 
 git remote add origin <url>
 
-git remote add origin 
+git remote add origin https://github.com/fabygithub/angular.git
 
+git push --set-upstream origin master
+git push -u origin master
 
-
-
-
-
-
-
+//enumerating objects
 
 
 
