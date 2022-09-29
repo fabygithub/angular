@@ -1,0 +1,5 @@
+bom in angular
+router
+routerLink
+RouterLinkActive
+component
