@@ -1,0 +1,41 @@
+https://www.youtube.com/watch?v=6wVolJfXn1c&ab_channel=Fazt
+
+1 ver el diseño 
+2 vemos 1 tabla
+3 crud :Crear, Leer, Actualizar y Borrar
+5 crear un projecto en angular
+6 vamos a la carpeta donde queremos crear el proyecto
+7 ejecutar el comando
+8 // ng new ang-crud
+9 va a crear una carpeta con todas las dependencias
+10 tenemos que esperar que termine la instalacion
+11 lo que vamos a hacer es abrirla con el editor de codigo
+12 podemos arrastrar la carpeta donde nuestro editor
+13 ahora vamos a ejecutar (2)
+14 para ver que salida tenemos
+15 vamos a la terminal y ejecutamos el comando
+16 // ng serve
+17 vemos que el codigo va a empezar a compilar
+18 y se va a  ejecturar en el navegador
+19 cuando la compilacion este completa
+20 // localhost:4200
+21 ahora vamos a empezar a crear la aplicacion
+22 importar la funcionalidad que necesitamos
+23 para escribir el codigo
+24 // app.module.ts
+25 nos vamos a la parte donde dice imports
+26 vamos a importar otra funcionalidad
+27 // import {FormsModule} from '@angular/forms'
+28 // imports : [FormsModule]
+29 vamos a limpiar la consola
+30 // clear
+31 y vamos a instalar lo siguiente
+32 // npm i bootstrap --save
+33 dejar que se instale
+34 ir a //.angular-cli.json
+
+min 5
+
+35
+
+
