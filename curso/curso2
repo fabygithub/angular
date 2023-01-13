@@ -1,9 +1,9 @@
 26-12-2022
 https://www.youtube.com/watch?v=i-oYrcNtc2s&t=310s&ab_channel=DominiCode
-5
+min 5,7
 
 instalando angular cli
-crear la primera aplicacion en angular
+primera aplicacion
 new terminal
 ng new store
 y
@@ -16,9 +16,26 @@ code .
 package.json
 angular.json
 
+crear una nueva aplicacion
+ng new my-app
 
+crear componentes
+crear servicios
+crear directivas
+crear modulos
+ver documentacion
 
-
+terminal 
+buscar ruta
+crear proyecto
+ng new my-app1
+añadir rutas?
+si no
+elegimos si
+formato estilos
+scss
+segunda opcion
+creacion proyecto
 
 
 
