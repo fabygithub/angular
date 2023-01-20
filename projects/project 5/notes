@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=6wVolJfXn1c&ab_channel=Fazt
+min 10
 
 1 ver el diseño 
 2 vemos 1 tabla
@@ -50,13 +51,11 @@ https://www.youtube.com/watch?v=6wVolJfXn1c&ab_channel=Fazt
 
 33 dejar que se instale
 
-34 ir a 
+app.component.html = si borro todo la pagina queda vacia
 
-//.angular-cli.json
 
-<div class="text-center">
-  <h1>{{title}}</h1>
-
+<div class="container">
+  <h1 class="text-center">{{title}}</h1>
 </div>
 
 
@@ -65,20 +64,87 @@ https://www.youtube.com/watch?v=6wVolJfXn1c&ab_channel=Fazt
     alt="Angular Logo"
     src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg=="
   />
+
+
   
- port 4200 alreay use
+port 4200 alreay use
  
 netstat -a -n -o
 example
-taskkill -f /pid  2892
+taskkill -f /pid 11468
+
+ir a 
+
+//angular.json
+//.angular-cli.json
+
+cannot resolve
+//  "../node_modules/bootstrap/dist/css/bootstrap.min.css",
+Bootstrap styles not loading in angular 10
+
+se agrega en el primer styles
+ "styles": [
+    "src/styles.css",
+    "node_modules/bootstrap/dist/css/bootstrap.css"
+  ],
+  
+Adding Bootstrap 5 to Angular 15 Using angular.json
+https://www.techiediaries.com/angular-bootstrap/#:~:text=3%2B%20Ways%20to%20Include%20Bootstrap%205%20In%20Your%20Angular%2015%20Project&text=Import%20the%20Bootstrap%20CSS%20file,json%20file%20of%20your%20project
+en el angular json 
+hay 2 styles
+
+
+$ npm install -g @angular/cli
+How to generate .angular-cli.json file in Angular Cli?
+Since Angular version 6 .angular-cli.json is deprecated. 
+That file was replaced by angular.json file which supports workspaces.
 
 
 
+https://stackoverflow.com/questions/54654164/why-is-my-node-modules-folder-greyed-out-after-command-npm-install
+/node_modules
+#/node_modules
+
+The git repository at "c:\Users\USUARIO\app1" has too many active changes, 
+only a subset of Git features will be enabled. Would you like to add "node_modules" to .gitignore?  
+
+no
+
+localhost 4200
+si cierro los terminales el programa finaliza
+
+app.component.ts
+
+title:string = 'Angular Crud';
+
+  employees = [
+    {'name' : 'Fazt', position : 'manager'},
+    {'name' : 'Juan', position : 'Designer'},
+    {'name' : 'Pedro', position : 'Programmer'},
+
+  ];
+
+  addEmployee():void{
+
+  }
+
+  deleteEmployee():void{
+    
+  }
+
+  editEmployee():void{
+    
+  }
+  
+   updateEmployee():void{
+    
+  }
+  
+  
+  
+  
 
 
 
-
-
-min 10
 
 
