@@ -6,7 +6,9 @@ https://www.youtube.com/watch?v=6wVolJfXn1c&ab_channel=Fazt
 5 crear un projecto en angular
 6 vamos a la carpeta donde queremos crear el proyecto
 7 ejecutar el comando
+
 8 // ng new ang-crud
+
 9 va a crear una carpeta con todas las dependencias
 10 tenemos que esperar que termine la instalacion
 11 lo que vamos a hacer es abrirla con el editor de codigo
@@ -14,28 +16,69 @@ https://www.youtube.com/watch?v=6wVolJfXn1c&ab_channel=Fazt
 13 ahora vamos a ejecutar (2)
 14 para ver que salida tenemos
 15 vamos a la terminal y ejecutamos el comando
+
 16 // ng serve
+
 17 vemos que el codigo va a empezar a compilar
 18 y se va a  ejecturar en el navegador
 19 cuando la compilacion este completa
+
 20 // localhost:4200
+
 21 ahora vamos a empezar a crear la aplicacion
 22 importar la funcionalidad que necesitamos
 23 para escribir el codigo
+
 24 // app.module.ts
+
 25 nos vamos a la parte donde dice imports
 26 vamos a importar otra funcionalidad
+
 27 // import {FormsModule} from '@angular/forms'
 28 // imports : [FormsModule]
+
 29 vamos a limpiar la consola
-30 // clear
+30 
+
+// clear
+
 31 y vamos a instalar lo siguiente
-32 // npm i bootstrap --save
+
+32 
+
+// npm i bootstrap --save
+
 33 dejar que se instale
-34 ir a //.angular-cli.json
 
-min 5
+34 ir a 
 
-35
+//.angular-cli.json
+
+<div class="text-center">
+  <h1>{{title}}</h1>
+
+</div>
+
+
+<img
+    width="300"
+    alt="Angular Logo"
+    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg=="
+  />
+  
+ port 4200 alreay use
+ 
+netstat -a -n -o
+example
+taskkill -f /pid  2892
+
+
+
+
+
+
+
+
+min 10
 
 
