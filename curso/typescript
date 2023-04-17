@@ -1,0 +1,36 @@
+https://www.udemy.com/course/angular-fernando-herrera/learn/lecture/23523778?start=0#overview
+
+typescript
+angular
+javascript
+
+let nombre = 'Strider';
+let puntosVida = 95;
+let arma  = 'Espada';
+
+ejercicios basicos
+tipo de datos producto
+propiedades del producto
+
+arreglo de productos
+
+class persona
+nombre : string;
+edad : number
+
+@decoradores
+dependencias
+errores en momento de escritura
+
+
+
+
+
+
+
+
+
+
+
+
+
