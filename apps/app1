@@ -13,6 +13,22 @@ npm install -g angular/cli
 cd .\Documents\
 cd .\Work\
 
+ng new GentelmanAngularTest
+no
+scss
+
+#installing packages npm
+
+open folder
+
+npm i -g pnpm@latest
+
+ng config -g cli.packageManager pnpm
+
+ng s
+
+#15
+
 
 
 
